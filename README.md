@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Layne — passionate about data, analytics, AI for social good. Working at the intersection of strategy, culture, and innovation.
-
+ This is my GitHub profile. [Please see my professional CV now here](https://elaynemorrison.github.io/Public/) [-   and/or my LinkedIn ](https://www.linkedin.com/in/elaynemorrison/)
+ 
 ### 🔎 Exploring what's next in data leadership.
 - I recently served as **Deputy Chief Data Officer, Analytics & Infrastructure** at the **U.S. Department of Education**, where I led the **Analytics Division** to drive the strategic use of data in decision-making across grants, loans, and beyond. I currently have a number of projects focused on data community for displaced/fired federal data professionals (for ex. I'll be hosting an Open Space at PyCon May '25).
 ---
